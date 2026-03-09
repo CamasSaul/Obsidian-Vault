@@ -1,1 +1,4 @@
 #unix
+
+Unix es un  [[Sistema Operativo (OS)|sistema operativo]] desarrollado por [[AT&T]] nacido en 1969. Fue inicialmente pensado para ser usado como entorno de desarrollo para programadores. La primera versión fue escrita en lenguaje ensamblador para la computadora [PDP-7](https://en.wikipedia.org/wiki/PDP-7 "PDP-7"). Propuso una filosofía diferente donde todo el sistema era modular, multitarea y multiusuario.
+Fue desarrollado principalmente por un equipo de investigación liderado por [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson "Ken Thompson") y [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie "Dennis Ritchie"). Más tarde fue reescrito en lenguaje [[C]] por el mismo laboratorio, y se convirtió en el principal sistema operativo para las computadoras de empresas y universidades de la época. Hoy en día es la base filosófica y técnica de los sistemas operativos modernos.
