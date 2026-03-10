@@ -1,0 +1,21 @@
+views:
+  - type: table
+    name: Table
+    order:
+      - file.ext
+      - file.name
+      - file.mtime
+      - file.folder
+      - tags
+    sort:
+      - property: file.mtime
+        direction: DESC
+      - property: file.folder
+        direction: DESC
+      - property: file.name
+        direction: ASC
+      - property: file.ext
+        direction: ASC
+    columnSize:
+      file.ext: 65
+      file.name: 292

@@ -9,5 +9,4 @@ Piensa a la **shell** como una "navaja suiza" o como un "lanzador de comandos". 
 
 Algunas de las shells mas utilizadas son; La '[[Bourne Again shell (bash)]]', una shell moderna de propósito general. La '[[Korn shell (ksh)]]', y la '[[Tenex C shell (tcsh)]]'.
 
-## Cuál es el origen y evolución de la shell?
-#TODO
+## Cuál es el origen y evolución de la shell? #TODO

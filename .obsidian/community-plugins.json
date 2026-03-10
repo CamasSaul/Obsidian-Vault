@@ -1,5 +1,7 @@
 [
   "obsidian-excalidraw-plugin",
   "vscode-editor",
-  "embed-code-file"
+  "embed-code-file",
+  "obsidian-icon-folder",
+  "templater-obsidian"
 ]

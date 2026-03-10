@@ -1,0 +1,26 @@
+/* Centra el contenedor de CUALQUIER embebido (Excalidraw, PDF, Notas, Video) */
+.markdown-source-view.mod-cm6 .cm-content > .internal-embed,
+.markdown-rendered .internal-embed,
+.markdown-rendered img,
+.markdown-rendered video,
+.markdown-rendered audio {
+    display: block;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    max-width: 100%;
+}
+
+/* Ajuste específico para que el lienzo de Excalidraw se centre dentro de su marco */
+.excalidraw-embedded-wrapper, 
+.excalidraw-svg-wrapper svg {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    display: block !important;
+}
+
+/* Opcional: Centra el nombre del archivo debajo del embebido (si el tema lo muestra) */
+.internal-embed-title {
+    text-align: center;
+    width: 100%;
+    display: block;
+}

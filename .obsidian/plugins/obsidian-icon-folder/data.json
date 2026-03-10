@@ -1,0 +1,51 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiPalette",
+      "LiLightbulb",
+      "LiPi",
+      "LiScroll",
+      "LiLibraryBig"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Daily": "LiCalendarDays",
+  "Library": "LiLibraryBig",
+  "Notes": "LiNotepadText",
+  "Projects": "LiPackage",
+  "Resources": "LiImage",
+  "undefined": "LiBoxSelect",
+  "database.base": "LiDatabase",
+  "Library/Computer Science": "LiComputer",
+  "Projects/Sistema de estudio optimizado": "LiGraduationCap",
+  "Templates": "LiLayoutTemplate",
+  "Library/Philosophy": "LiScroll",
+  "Library/Math": "LiPi",
+  "Library/Art": "LiPalette",
+  "Ideas": "LiLightbulb"
+}

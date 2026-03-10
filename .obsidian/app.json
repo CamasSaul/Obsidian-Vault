@@ -1,4 +1,13 @@
 {
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "Resources/"
+  ],
+  "defaultViewMode": "preview",
+  "livePreview": true,
+  "rightToLeft": false,
+  "showIndentGuide": false
 }
