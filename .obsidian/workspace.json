@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a2b21805c071e62e",
+        "id": "6a063a0b4eb73468",
         "type": "tabs",
         "children": [
           {
-            "id": "ca8746e5d7f96571",
+            "id": "6882efdf540c0d6d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026-03-12.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-03-12"
             }
           }
         ]
@@ -185,44 +189,44 @@
   },
   "active": "02d47ec3f0cf5ba2",
   "lastOpenFiles": [
+    "Daily/2026-03-12.md",
+    "Templates/Template-DailyNote.md",
+    "Daily/2026-03-12.md",
+    "Daily/2026-03-11.md",
+    "Daily/2026-03-10.md",
+    "Templates/Template-AutoTagByPath.md",
+    "Library/Computer Science/Web/Astro/Desing/Untitled.md",
+    "Library/Computer Science/Python/Untitled.md",
+    "Library/Computer Science/Web/Astro/Desing",
+    "Library/Computer Science/Web/Astro",
+    "Daily/2026-03-09.md",
+    "Library/Computer Science/Shell/Bash/Bourne Again shell (bash).md",
+    "database.base",
+    "Projects/Sistema de estudio optimizado/Sistema de estudio optimizado.md",
+    "Library/Computer Science/Shell/Bash",
     "Ideas",
     "Library/Art",
     "Library/Math",
     "Library/Computer Science/Abstract",
     "Library/Philosophy",
-    "Daily/2026-03-09.md",
-    "Daily/2026-03-10.md",
-    "Library/Computer Science/Python/Untitled.md",
-    "Templates/Template-AutoTagByPath.md",
     "Untitled.md",
     "Templates",
     "Library/Computer Science/Rust/Introducción a Rust.md",
-    "database.base",
-    "Resources/Excallidraw",
-    "Notes",
     "Resources/Daily/2026-03-09-RandomMeshSparetedByFolders.excalidraw.md",
     "Resources/Daily/2026-03-09-obeject-oriented-directory-srtucture.excalidraw.md",
     "Library/Computer Science/Shell/Shell.md",
     "Resources/Daily/2026-03-09-railway_paths.webp",
     "Projects/Sistema de estudio optimizado/Draws/Horario de actividades.md",
     "Projects/Sistema de estudio optimizado/Draws/ObsidianNotesArchitecture.excalidraw.md",
-    "Library/Computer Science/_undefined/Sistema Operativo (OS).md",
-    "Resources/Daily",
-    "Resources",
+    "Library/Computer Science/Software/Sistema Operativo (OS).md",
     "Untitled.canvas",
-    "Library/Computer Science/Shell/Comandos/ls.md",
-    "Library/Computer Science/Shell/Comandos/date.md",
+    "Library/Computer Science/Shell/Bash/Command/ls.md",
+    "Library/Computer Science/Shell/Bash/Command/date.md",
     "Library/Computer Science/Shell/Tenex C shell (tcsh).md",
     "Shell/Cuál es el origen y evolución de la shell?.md",
     "Library/Computer Science/Shell/Korn shell (ksh).md",
-    "Projects/Sistema de estudio optimizado/Sistema de estudio optimizado.md",
     "Library/Computer Science/Unix/UNIX.md",
     "Unix/Qué es UNIX?.md",
-    "Library/Computer Science/Shell/Comandos/pwd.md",
-    "Library/Computer Science/Shell/Comandos/df.md",
-    "Library/Computer Science/Shell/Comandos/free.md",
-    "Library/Computer Science/Shell/Comandos/uptime.md",
-    "Library/Computer Science/Shell/Bourne Again shell (bash).md",
     "Untitled/Grafico.canvas"
   ]
 }
