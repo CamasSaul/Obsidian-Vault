@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiMap",
+      "LiBook",
       "LiPalette",
       "LiLightbulb",
-      "LiPi",
-      "LiScroll",
-      "LiLibraryBig"
+      "LiPi"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -46,5 +46,7 @@
   "Library/Philosophy": "LiScroll",
   "Library/Math": "LiPi",
   "Library/Art": "LiPalette",
-  "Ideas": "LiLightbulb"
+  "Ideas": "LiLightbulb",
+  "Resources/Books": "LiBook",
+  "BookMap": "LiMap"
 }

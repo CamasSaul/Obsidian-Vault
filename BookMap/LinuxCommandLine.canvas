@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"5fc742f05ec6a8dd","type":"text","text":"","x":-53,"y":284,"width":200,"height":100},
+		{"id":"e51e55930a51eddc","type":"text","text":"","x":-53,"y":164,"width":200,"height":100},
+		{"id":"810ba7f281f1f3a7","type":"text","text":"","x":-53,"y":-496,"width":200,"height":100},
+		{"id":"28f9304c201356d4","type":"text","text":"Edicion de esta imagen. No hay soporte para imagenes","x":567,"y":-136,"width":340,"height":280},
+		{"id":"856a17a00e07e54a","type":"text","text":"","x":-53,"y":-136,"width":200,"height":100},
+		{"id":"e4dd78536ae5b2ca","type":"text","text":"","x":-53,"y":-376,"width":200,"height":100},
+		{"id":"52d75324b2a8a679","type":"file","file":"Daily/2026-03-15.md","x":-53,"y":404,"width":420,"height":460},
+		{"id":"f49b5d0847938ad1","type":"text","text":"","x":-53,"y":-256,"width":200,"height":100},
+		{"id":"7b78b815e178426b","type":"text","text":"# **Linux Command Line**","x":-553,"y":-496,"width":300,"height":70,"color":"4"},
+		{"id":"442653876c5a503f","type":"file","file":"Resources/Images/CoverPage-TheLinuxCommandLine.png","x":567,"y":404,"width":144,"height":200},
+		{"id":"3fc805e1e9fcb0e4","type":"text","text":"","x":567,"y":744,"width":200,"height":100},
+		{"id":"e92e80df7847a1f0","type":"file","file":"Resources/Images/CoverPage-TheLinuxCommandLine.png","x":-1040,"y":-496,"width":287,"height":400},
+		{"id":"d6d540d2b882d9be","type":"text","text":"","x":567,"y":624,"width":200,"height":100}
+	],
+	"edges":[
+		{"id":"c57a29e116369e45","fromNode":"7b78b815e178426b","fromSide":"right","toNode":"52d75324b2a8a679","toSide":"left"},
+		{"id":"0fed3e40984ef223","fromNode":"7b78b815e178426b","fromSide":"right","toNode":"5fc742f05ec6a8dd","toSide":"left"},
+		{"id":"1b2500d0d4e5ed32","fromNode":"7b78b815e178426b","fromSide":"right","toNode":"e51e55930a51eddc","toSide":"left"},
+		{"id":"ddb7fec93796d46a","fromNode":"7b78b815e178426b","fromSide":"right","toNode":"810ba7f281f1f3a7","toSide":"left"},
+		{"id":"096a102320da7452","fromNode":"7b78b815e178426b","fromSide":"right","toNode":"856a17a00e07e54a","toSide":"left"},
+		{"id":"25b86a06b06986ce","fromNode":"856a17a00e07e54a","fromSide":"right","toNode":"28f9304c201356d4","toSide":"left"},
+		{"id":"90a00b9717ddc5b0","fromNode":"7b78b815e178426b","fromSide":"right","toNode":"e4dd78536ae5b2ca","toSide":"left"},
+		{"id":"528d4d829160a472","fromNode":"7b78b815e178426b","fromSide":"right","toNode":"f49b5d0847938ad1","toSide":"left"},
+		{"id":"5f6b135f61353d22","fromNode":"52d75324b2a8a679","fromSide":"right","toNode":"442653876c5a503f","toSide":"left"},
+		{"id":"da64a22d4567be60","fromNode":"52d75324b2a8a679","fromSide":"right","toNode":"3fc805e1e9fcb0e4","toSide":"left"},
+		{"id":"6fec8288a74a5a70","fromNode":"e92e80df7847a1f0","fromSide":"right","toNode":"7b78b815e178426b","toSide":"left"},
+		{"id":"8db55820aa4b6e5b","fromNode":"52d75324b2a8a679","fromSide":"right","toNode":"d6d540d2b882d9be","toSide":"left"}
+	]
+}

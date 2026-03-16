@@ -3,5 +3,7 @@
   "vscode-editor",
   "embed-code-file",
   "obsidian-icon-folder",
-  "templater-obsidian"
+  "templater-obsidian",
+  "canvas-mindmap",
+  "canvas-mindmap-helper"
 ]
